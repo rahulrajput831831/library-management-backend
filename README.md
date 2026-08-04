@@ -39,3 +39,4 @@ A RESTful API built with Spring Boot and PostgreSQL for managing a library's boo
 1. Create PostgreSQL database: `librarydb`
 2. Update `application.properties` with your DB credentials
 3. Run: `./mvnw spring-boot:run`
+4. 
